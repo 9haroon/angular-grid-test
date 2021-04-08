@@ -12,6 +12,10 @@ Grid have to contain elements:
 - content
 - button
 
+## Requirement
+- Responsive grid
+- Mobile, Tablet and Desktop have to be different
+
 ## Use Bootstrap
 
 - Add `bootstrap` with yarn or npm
