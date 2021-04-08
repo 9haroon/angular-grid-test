@@ -19,7 +19,7 @@ Grid have to contain elements:
 ## Use Bootstrap
 
 - Add `bootstrap` with yarn or npm
-- Use `row col` or `d-flex` for making a grid
+- Use `row` `col` or `d-flex` from Bootstrap to making a grid
 - Style language: `scss`
 - Add bootstrap plugin to project (in angular.json file)
 - Import bootstrap scss files from node_modules
